@@ -307,3 +307,11 @@ crosstab
 
 The R Crosstab can be seen here:
 https://cs329e-rc37495.shinyapps.io/DV_FinalProject
+
+###Map
+
+This map was created in Tableau just to observe which states had the biggest population of Veterans. California, New York, Texas and Florida seem to have the biggest Veteran Population, which isn't very surprising considering those states are also the biggest in the U.S. in general.
+
+![](Map.jpg)
+
+The map was created by selecting State, and selecting the Fill Map in the Show Me tab. Color was then dragged into the color mark, and the gradient changed to blue to red.
